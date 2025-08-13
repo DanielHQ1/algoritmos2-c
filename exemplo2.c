@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
@@ -7,6 +8,7 @@ int main()
     printf("Prog II \n");
     printf("Daniel Carvalho \n");
     printf("1911 \n");
+    system("pause");
 
     return 0;
 }
